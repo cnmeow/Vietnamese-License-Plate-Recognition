@@ -1,4 +1,16 @@
-# 🇻🇳 Vietnamese License Plate Recognition
+# 🇻🇳 Vietnamese License Plate Recognition - CS117.O21.KHTN
+
+## Teacher Instruction
+* PhD. Ngo Duc Thanh
+
+## Team
+
+| No. | Full name | Student ID | Email | Github |
+| :---: | --- | --- | --- | --- |
+| 1 | Trần Như Cẩm Nguyên | 22520004 | 22520004@gm.uit.edu.vn | [cnmeow](https://github.com/cnmeow) |
+| 2 | Trần Thị Cẩm Giang | 22520361 | 22520361@gm.uit.edu.vn | [Yangchann](https://github.com/Yangchann) |
+| 3 | Nguyễn Hữu Hoàng Long | 22520817 | 22520817@gm.uit.edu.vn | [EbisuRyu](https://github.com/EbisuRyu) |
+| 4 | Trần Minh Quân | 22521191 | 22521191@gm.uit.edu.vn | [Be-Tap-Code](https://github.com/Be-Tap-Code) |
 
 ## Introduction
 
